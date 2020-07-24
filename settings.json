@@ -1,0 +1,55 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "One Dark Pro",
+    "eslint.autoFixOnSave": true,
+    "eslint.packageManager": "yarn",
+    "editor.formatOnPaste": true,
+    "files.autoSave": "afterDelay",
+    "files.exclude": {
+        "**/node_modules": true,
+        "yarn.lock": true
+    },
+    "files.watcherExclude": {
+        "**/node_modules/": true,
+        "**/node_modules/*/**": false
+    },
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": true,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "sync.gist": "9b789a78ece4f8fb827e5c64c871f721",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "git.autofetch": true,
+    "sync.forceUpload": true,
+    "git.enableSmartCommit": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "diffEditor.renderSideBySide": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": false
+    },
+    "latex-workshop.view.pdf.viewer": "tab",
+    "explorer.confirmDragAndDrop": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "sshfs.configs": [
+        {
+            "host": "myth.stanford.edu",
+            "name": "myth",
+            "password": "Ihave2sisters123",
+            "root": "/afs/.ir/users/a/s/asiwiec",
+            "username": "asiwiec"
+        },
+        {
+            "host": "54.160.71.36",
+            "name": "js",
+            "password": "directly-education-smile-population",
+            "username": "ubuntu"
+        }
+    ],
+    "C_Cpp.updateChannel": "Insiders"
+}

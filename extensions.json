@@ -1,0 +1,19 @@
+[
+	"arnohovhannisyan.syncify",
+	"dbaeumer.vscode-eslint",
+	"eamodio.gitlens",
+	"esbenp.prettier-vscode",
+	"HookyQR.beautify",
+	"jbenden.c-cpp-flylint",
+	"Kelvin.vscode-sshfs",
+	"ms-python.python",
+	"ms-vscode-remote.remote-ssh",
+	"ms-vscode-remote.remote-ssh-edit",
+	"ms-vscode-remote.remote-wsl",
+	"ms-vscode.cpptools",
+	"msjsdiag.debugger-for-chrome",
+	"PKief.material-icon-theme",
+	"Shan.code-settings-sync",
+	"vscode-icons-team.vscode-icons",
+	"zhuangtongfa.material-theme"
+]
